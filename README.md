@@ -1,4 +1,4 @@
-# Hi, I'm Mesrop 👋
+# Hi, I'm Mesrop 
 
 **Backend Developer**
 
@@ -63,12 +63,7 @@ Django REST API for the Instagram Graph API: pulls posts, persists to Postgres, 
 
 <br>
 
-## 📊 GitHub Stats
-
-![Mesrop's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesrop2008&show_icons=true&theme=default&hide_border=true)
-
-<br>
-
 ## 📬 Reach Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meropharutyunyan622@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MesropSP)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesropharutyunyan622@gmail.com)
