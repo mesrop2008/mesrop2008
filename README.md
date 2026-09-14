@@ -1,4 +1,4 @@
-# Hi, I'm Mesrop 
+# Hi, I'm Mesrop 👋
 
 **Backend Developer**
 
@@ -24,46 +24,11 @@ I mostly work in Python — building APIs, integrating with external services, a
 
 <br>
 
-## 🚀 Selected Work
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Synapse-Canvas](https://github.com/mesrop2008/Synapse-Canvas)
-Real-time collaborative workspace where teams write documents together and query an LLM over their own source material, with citations.
-`FastAPI` `SQLAlchemy` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### [shashlikmarket](https://github.com/mesrop2008/shashlikmarket)
-Full-featured food ordering site: browse a restaurant's menu, add to cart, place orders.
-`Django`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [orange-spotlight-market](https://github.com/mesrop2008/orange-spotlight-market)
-Classifieds marketplace frontend in the style of OLX/Avito.
-`React 18` `TypeScript`
-
-</td>
-<td width="50%" valign="top">
-
-### [Instagram-sync](https://github.com/mesrop2008/Instagram-sync)
-Django REST API for the Instagram Graph API: pulls posts, persists to Postgres, posts comments back.
-`Django REST Framework` `Docker`
-
-</td>
-</tr>
-</table>
-
-<br>
 
 ## 📬 Reach Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MesropSP)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mesropharutyunyan622@gmail.com)
+🟢 **Currently looking for a backend developer role**
+
+📱 Telegram: [@MesropSP](https://t.me/MesropSP)  
+📧 Email: [mesropharutyunyan622@gmail.com](mailto:mesropharutyunyan622@gmail.com)
