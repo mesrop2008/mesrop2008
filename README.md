@@ -2,7 +2,9 @@
 
 **Backend Developer**
 
-I mostly work in Python — building APIs, integrating with external services, and wiring up the data layer underneath them. Comfortable moving to TypeScript/React when a project needs a frontend too.
+I build backend systems end-to-end — from database schema to API to (when needed) the frontend that consumes it. My main stack is Python: FastAPI for async services, Django/DRF for more traditional CRUD-heavy apps, SQLAlchemy and raw SQL for the data layer, all running on PostgreSQL.
+
+Day to day, that usually means designing and building REST APIs, integrating with third-party services, containerizing and deploying with Docker, and writing the SQL and data models underneath it all. I also work regularly in large LLM-application codebases — agentic workflows, RAG pipelines, and model/tool orchestration. I'm also comfortable picking up React and TypeScript when a project needs a frontend, not just an API.
 
 <br>
 
@@ -25,10 +27,9 @@ I mostly work in Python — building APIs, integrating with external services, a
 <br>
 
 
-
 ## 📬 Reach Me
 
 🟢 **Currently looking for a backend developer role**
 
-📱 Telegram: [@MesropSP](https://t.me/MesropSP)  
+📱 Telegram: [@MesropSP](https://t.me/MesropSз)<br>
 📧 Email: [mesropharutyunyan622@gmail.com](mailto:mesropharutyunyan622@gmail.com)
