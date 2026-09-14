@@ -31,5 +31,5 @@ Day to day, that usually means designing and building REST APIs, integrating wit
 
 🟢 **Currently looking for a backend developer role**
 
-📱 Telegram: [@MesropSP](https://t.me/MesropSp)<br>
+📱 Telegram: [@MesropSp](https://t.me/MesropSp)<br>
 📧 Email: [mesropharutyunyan622@gmail.com](mailto:mesropharutyunyan622@gmail.com)
