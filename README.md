@@ -1,18 +1,12 @@
-<div align="center">
-
 # Hi, I'm Mesrop 👋
 
 **Backend Developer**
 
 I mostly work in Python — building APIs, integrating with external services, and wiring up the data layer underneath them. Comfortable moving to TypeScript/React when a project needs a frontend too.
 
-</div>
-
 <br>
 
 ## 🛠️ Stack
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -27,8 +21,6 @@ I mostly work in Python — building APIs, integrating with external services, a
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</div>
 
 <br>
 
@@ -73,18 +65,10 @@ Django REST API for the Instagram Graph API: pulls posts, persists to Postgres, 
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
 ![Mesrop's GitHub stats](https://github-readme-stats.vercel.app/api?username=mesrop2008&show_icons=true&theme=default&hide_border=true)
-
-</div>
 
 <br>
 
 ## 📬 Reach Me
 
-<div align="center">
-
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meropharutyunyan622@gmail.com)
-
-</div>
